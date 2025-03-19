@@ -17,11 +17,11 @@ def main():
                 grade = 'D'
             else:
                 grade = 'F'
-            print(f"Your Grade is: {grade}")
-        else:
-            print("Please enter a valid score between 0 and 100.")
-    except ValueError:
-        print("Invalid input. Please enter a numeric value.")
+             print(f"Your Grade is: {grade}")
+            else:
+              print("Please enter a valid score between 0 and 100.")
+        except ValueError:
+             print("Invalid input. Please enter a numeric value.")
 
 if __name__ == "__main__":
     main()
