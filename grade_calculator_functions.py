@@ -1,4 +1,4 @@
-# Sebatian Tyron
+#Sebatian Tyron
 # ITELECT2
 # Laboratory #19-Guided Coding Exercise:
 # Variables, Literals, and Case-Sensitivity in Python 
